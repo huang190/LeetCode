@@ -1,0 +1,29 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cross-env NODE=development jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huang190/LeetCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huang190/LeetCode/issues"
+  },
+  "homepage": "https://github.com/huang190/LeetCode#readme",
+  "devDependencies": {
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
+    "cross-env": "^7.0.2",
+    "jest": "^26.0.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
